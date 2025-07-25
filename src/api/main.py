@@ -47,3 +47,5 @@ def taiwan_stock_price(
     # 將資料轉為 List of Dict 格式，方便 FastAPI 回傳 JSON
     data_dict = data_df.to_dict("records")
     return {"data": data_dict}  # 回傳資料結果
+
+## testing
