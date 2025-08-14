@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # api
 
 # 環境設定
@@ -46,3 +47,7 @@
 
 
 
+=======
+# house_api
+Connecting FastAPI
+>>>>>>> 03ab0929d3eb2ea3cb392dad0753e23ca4e1b70d
