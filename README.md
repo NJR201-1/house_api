@@ -46,8 +46,3 @@
     DOCKER_IMAGE_VERSION=0.0.1 docker compose -f docker-compose-api-network-version.yml up -d
 
 
-
-=======
-# house_api
-Connecting FastAPI
->>>>>>> 03ab0929d3eb2ea3cb392dad0753e23ca4e1b70d
